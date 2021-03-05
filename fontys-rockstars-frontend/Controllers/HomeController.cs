@@ -23,7 +23,7 @@ namespace fontys_rockstars_frontend.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ArtikelPagina()
         {
             return View();
         }
